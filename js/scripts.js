@@ -1,6 +1,6 @@
 window.onload = chooseRandomImage;
 const images = new Array(
-    "images/MyChoiceLogo1.svg","images/MyChoiceLogo4.svg" ,"images/MyChoiceLogo5.svg","images/MyChoiceLogo6.svg");
+    "images/MyChoiceLogo1.svg","images/MyChoiceLogo4.svg" ,"images/MyChoiceLogo5.svg","images/MyChoiceCircleLogo.svg","images/MyChoiceStarLogo.svg");
 
 const logo = document.querySelector(".logo");
 
